@@ -53,7 +53,7 @@ Always respect:
 ## 🔥 Copy & Paste Commands
 
 ```bash
-curl -LO https://raw.githubusercontent.com/YOUR-USERNAME/LabKing/main/docker/LabKing.sh
+curl -LO https://raw.githubusercontent.com/krishnasahu4421/Arcade-Google-Cloud_labs/edit/main/Introduction%20to%20Docker/LabKing.md
 
 chmod +x LabKing.sh
 
