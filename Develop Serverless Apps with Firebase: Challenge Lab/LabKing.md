@@ -15,7 +15,7 @@
 ## ☁️ Run in Cloud Shell:
 
 ```bash
-curl -LO raw.githubusercontent.com/krishnasahu4421/Arcade-Google-Cloud_Labs/refs/heads/main/Develop%20Serverless%20Apps%20with%20Firebase%3A%20Challenge%20Lab/LabKing.sh
+curl -LO raw.githubusercontent.com/LabKing21/Arcade-Google-Cloud_Labs/refs/heads/main/Develop%20Serverless%20Apps%20with%20Firebase%3A%20Challenge%20Lab/LabKing.sh
 sudo chmod +x LabKing.sh
 ./LabKing.sh
 ```
